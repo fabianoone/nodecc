@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Aplicações web real-time com Node.js" title="#Aplicações web real-time com Node.js" src="https://raw.githubusercontent.com/fabianoone/nodecc/main/covernodejs.webp" width="250px" />
+    <img alt="Aplicações web real-time com Node.js" title="#Aplicações web real-time com Node.js" src="https://raw.githubusercontent.com/fabianoone/nodecc/main/covernodejs.jpg" width="250px" />
 </h1>
 
 <h4 align="center">
